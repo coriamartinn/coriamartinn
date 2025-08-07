@@ -51,8 +51,8 @@
 ### 🔗 &nbsp;Contact Me
 
 <div align="center">
-<a href="mailto:coriamartin-dev@outlook.com"><img alt="Gmail" src="https://img.shields.io/badge/Outlook-D14836?style=for-the-badge&logo=outlook&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/martincoria26/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:coriamartin-dev@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook"></a>
+<a href="https://www.linkedin.com/in/martincoria26/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/coriamartinn/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 </div>
