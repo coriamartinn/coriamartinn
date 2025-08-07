@@ -4,12 +4,18 @@
 </h1>
 
 
+
+
 <h1>💫 About Me</h1>
 <p>👋 Hola, soy <strong>Martín Coria</strong> y hace unos tres años descubrí el universo de la programación. Desde entonces, no paré de aprender ni de construir.</p>
 <p>💻 Actualmente, diseño y desarrollo <strong>landing pages</strong> y <strong>one pages</strong> a medida como freelancer.</p>
 <p>🎯 Mi enfoque: crear experiencias <strong>simples</strong>, <strong>claras</strong> y <strong>funcionales</strong> que conecten con las personas.</p>
 <p>🚧 Próximo desafío: adentrarme en el desarrollo de <strong>aplicaciones web</strong> y <strong>software</strong>, uniendo <strong>diseño</strong> y <strong>lógica</strong> para resolver problemas reales con tecnología.</p>
 <p>🧩 ¿Lo mejor? Disfruto cada línea de código que me acerca a una solución.</p>
+
+
+
+
 
 
 ## 🛠 &nbsp;Tech Stack
@@ -30,6 +36,9 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)-->
 
+
+
+
 #### 📚 Libraries
 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -38,6 +47,10 @@
 ![Pygame](https://img.shields.io/badge/pygame-%23F7931E.svg?style=for-the-badge&logo=pygame&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23E20000.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
 
+
+
+
+
 #### 🔧 Tools
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -45,6 +58,11 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+
+
+
+
 
 
 
