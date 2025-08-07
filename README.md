@@ -18,6 +18,7 @@
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
@@ -50,8 +51,8 @@
 ### 🔗 &nbsp;Contact Me
 
 <div align="center">
-<a href="mailto:coriamartin-dev@outlook.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:coriamartin-dev@outlook.com"><img alt="Gmail" src="https://img.shields.io/badge/Outlook-D14836?style=for-the-badge&logo=outlook&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/martincoria26/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/coriamartinn/"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+<a href="https://www.instagram.com/coriamartinn/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 </div>
