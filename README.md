@@ -4,8 +4,13 @@
 </h3>
 
 
-# 💫 About Me:
-🚀 Journeying Through: Currently diving deep into the freeCodeCamp ocean..<br>🌐 Team Ups: Open to collaboration! Frontend? Backend? Let's explore both universes.<br>📘 Current Quest: Harnessing the power of React, but feeling the allure of the backend mysteries.<br>🔍 My Specialty: Bridging the gap between frontend flair and backend brains. Curious about the blend? Let's chat!<br>🌟 Did You Know?: They say I'm 'lazy', but I have a knack for getting things done in style.
+<h1>💫 About Me</h1>
+<p>👋 Hola, soy <strong>Martín Coria</strong> y hace unos tres años descubrí el universo de la programación. Desde entonces, no paré de aprender ni de construir.</p>
+<p>💻 Actualmente, diseño y desarrollo <strong>landing pages</strong> y <strong>one pages</strong> a medida como freelancer.</p>
+<p>🎯 Mi enfoque: crear experiencias <strong>simples</strong>, <strong>claras</strong> y <strong>funcionales</strong> que conecten con las personas.</p>
+<p>🚧 Próximo desafío: adentrarme en el desarrollo de <strong>aplicaciones web</strong> y <strong>software</strong>, uniendo <strong>diseño</strong> y <strong>lógica</strong> para resolver problemas reales con tecnología.</p>
+<p>🧩 ¿Lo mejor? Disfruto cada línea de código que me acerca a una solución.</p>
+
 
 
 
