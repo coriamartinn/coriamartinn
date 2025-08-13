@@ -3,29 +3,28 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
+<h1>👋 ¡Hola! Soy <strong>Martín Coria</strong></h1>
 
+<p>💡 Hace más de <strong>3 años</strong> descubrí en la programación mi lugar para <strong>crear, innovar y resolver problemas</strong>. Desde entonces, no he dejado de aprender ni de aplicar mis conocimientos en proyectos reales.</p>
 
+<hr>
 
-<h1>✨Sobre mi</h1>
+<h2>🚀 Lo que me define</h2>
+<ul>
+  <li>🔍 <strong>Proactivo</strong> y en búsqueda constante de soluciones.</li>
+  <li>⚡ Capaz de adaptarme rápido a nuevos retos tecnológicos.</li>
+  <li>🧠 Apasionado por unir <strong>lógica, diseño y funcionalidad</strong>.</li>
+</ul>
 
-<p>💡 Hace más de 3 años descubrí en la programación mi lugar para crear, innovar y resolver problemas. Desde entonces, no he dejado de aprender ni de aplicar mis conocimientos en proyectos reales.
+<hr>
 
-🚀 Lo que me define
-🔍 Proactivo y en búsqueda constante de soluciones.
+<h2>🎯 Objetivo actual</h2>
+<p>📚 Cursando la <strong>Tecnicatura Universitaria en Programación</strong> en la <strong>UTN</strong>, enfocado en especializarme en <strong>desarrollo backend</strong> para crear <strong>aplicaciones web y software</strong> que aporten <strong>valor real</strong>.</p>
 
-⚡ Capaz de adaptarme rápido a nuevos retos tecnológicos.
+<hr>
 
-🧠 Apasionado por unir lógica, diseño y funcionalidad.
-
-🎯 Objetivo actual
-📚 Cursando la Tecnicatura Universitaria en Programación en la UTN, enfocado en especializarme en desarrollo backend para crear aplicaciones web y software que aporten valor real.
-
-🧩 Filosofía de trabajo
-💻 Cada línea de código me acerca a una nueva solución.</p>
-
-
-
-
+<h2>🧩 Filosofía de trabajo</h2>
+<p>💻 <em>Cada línea de código me acerca a una nueva solución.</em></p>
 
 
 ## 🛠 &nbsp;Tech Stack
