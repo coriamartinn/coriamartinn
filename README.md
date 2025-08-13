@@ -68,6 +68,12 @@
 
 [![LegalDev](https://img.shields.io/github/stars/coriamartinn/LegalDev?label=Legal%20Dev&style=social)](https://github.com/coriamartinn/LegalDev)
 
+## Portfolio: Martin Coria
+
+<a href="https://github.com/coriamartinn/Coria.Dev-Portfolio"><img src="https://raw.githubusercontent.com/coriamartinn/Coria.Dev-Portfolio/refs/heads/master/public/porfolio.webp" style="height: 60%; width:60%;"/></a>
+
+[![Portfolio](https://img.shields.io/github/stars/coriamartinn/Coria.Dev-Portfolio?label=Martin%20Coria%20Portfolio&style=social)](https://github.com/coriamartinn/Coria.Dev-Portfolio)
+
 
 
 
