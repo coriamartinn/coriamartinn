@@ -7,11 +7,20 @@
 
 
 <h1>💫 Sobre mi</h1>
-<p>👋 Hola, soy <strong>Martín Coria</strong> y hace unos tres años descubrí el universo de la programación. Desde entonces, no paré de aprender ni de construir.</p>
-<p>💻 Actualmente, diseño y desarrollo <strong>landing pages</strong> y <strong>one pages</strong> a medida como freelancer.</p>
-<p>🎯 Mi enfoque: crear experiencias <strong>simples</strong>, <strong>claras</strong> y <strong>funcionales</strong> que conecten con las personas.</p>
-<p>🚧 Próximo desafío: adentrarme en el desarrollo de <strong>aplicaciones web</strong> y <strong>software</strong>, uniendo <strong>diseño</strong> y <strong>lógica</strong> para resolver problemas reales con tecnología.</p>
-<p>🧩 ¿Lo mejor? Disfruto cada línea de código que me acerca a una solución.</p>
+<p>Hace más de tres años descubrí en la programación mi lugar para crear, innovar y resolver problemas. Desde entonces, no he dejado de aprender ni de aplicar mis conocimientos en proyectos reales.
+
+🚀 Lo que me define:
+
+Proactividad y búsqueda constante de soluciones.
+
+Adaptabilidad a distintos retos tecnológicos.
+
+Pasión por unir lógica, diseño y funcionalidad.
+
+🎯 Objetivo actual:
+Especializarme en desarrollo backend, mientras curso la Tecnicatura Universitaria en Programación en la UTN, para crear aplicaciones web y software que aporten valor real.
+
+💡 Mi motor: Cada línea de código me acerca a una nueva solución.</p>
 
 
 
