@@ -6,7 +6,9 @@
 
 
 
-<h1>💡 Hace más de 3 años descubrí en la programación mi lugar para crear, innovar y resolver problemas. Desde entonces, no he dejado de aprender ni de aplicar mis conocimientos en proyectos reales.
+<h1>✨Sobre mi</h1>
+
+<p>💡 Hace más de 3 años descubrí en la programación mi lugar para crear, innovar y resolver problemas. Desde entonces, no he dejado de aprender ni de aplicar mis conocimientos en proyectos reales.
 
 🚀 Lo que me define
 🔍 Proactivo y en búsqueda constante de soluciones.
