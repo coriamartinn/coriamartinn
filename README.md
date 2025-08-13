@@ -6,21 +6,20 @@
 
 
 
-<h1>💫 Sobre mi</h1>
-<p>Hace más de tres años descubrí en la programación mi lugar para crear, innovar y resolver problemas. Desde entonces, no he dejado de aprender ni de aplicar mis conocimientos en proyectos reales.
+<h1>💡 Hace más de 3 años descubrí en la programación mi lugar para crear, innovar y resolver problemas. Desde entonces, no he dejado de aprender ni de aplicar mis conocimientos en proyectos reales.
 
-🚀 Lo que me define:
+🚀 Lo que me define
+🔍 Proactivo y en búsqueda constante de soluciones.
 
-Proactividad y búsqueda constante de soluciones.
+⚡ Capaz de adaptarme rápido a nuevos retos tecnológicos.
 
-Adaptabilidad a distintos retos tecnológicos.
+🧠 Apasionado por unir lógica, diseño y funcionalidad.
 
-Pasión por unir lógica, diseño y funcionalidad.
+🎯 Objetivo actual
+📚 Cursando la Tecnicatura Universitaria en Programación en la UTN, enfocado en especializarme en desarrollo backend para crear aplicaciones web y software que aporten valor real.
 
-🎯 Objetivo actual:
-Especializarme en desarrollo backend, mientras curso la Tecnicatura Universitaria en Programación en la UTN, para crear aplicaciones web y software que aporten valor real.
-
-💡 Mi motor: Cada línea de código me acerca a una nueva solución.</p>
+🧩 Filosofía de trabajo
+💻 Cada línea de código me acerca a una nueva solución.</p>
 
 
 
