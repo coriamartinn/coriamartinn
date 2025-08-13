@@ -1,12 +1,12 @@
 <h1 align="center">
-  Hi, I'm Martin Coria
+  Hola, Soy Martin Coria
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
 
 
 
-<h1>💫 About Me</h1>
+<h1>💫 Sobre mi</h1>
 <p>👋 Hola, soy <strong>Martín Coria</strong> y hace unos tres años descubrí el universo de la programación. Desde entonces, no paré de aprender ni de construir.</p>
 <p>💻 Actualmente, diseño y desarrollo <strong>landing pages</strong> y <strong>one pages</strong> a medida como freelancer.</p>
 <p>🎯 Mi enfoque: crear experiencias <strong>simples</strong>, <strong>claras</strong> y <strong>funcionales</strong> que conecten con las personas.</p>
@@ -60,6 +60,13 @@
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
+# Proyectos
+
+## Landing Page: LegalDev
+
+<a href="https://github.com/coriamartinn/LegalDev"><img src="https://raw.githubusercontent.com/coriamartinn/LegalDev/blob/master/public/image-preview.png" style="height: 60%; width:60%;"/></a>
+
+[![LegalDev](https://img.shields.io/github/stars/coriamartinn/LegalDev?label=Legal%20Dev&style=social)](https://github.com/coriamartinn/LegalDev)
 
 
 
