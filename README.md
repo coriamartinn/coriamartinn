@@ -64,7 +64,7 @@
 
 ## Landing Page: LegalDev
 
-<a href="https://github.com/coriamartinn/LegalDev"><img src="https://raw.githubusercontent.com/coriamartinn/LegalDev/blob/master/public/image-preview.png" style="height: 60%; width:60%;"/></a>
+<a href="https://github.com/coriamartinn/LegalDev"><img src="https://raw.githubusercontent.com/coriamartinn/LegalDev/public/image-preview.png" style="height: 60%; width:60%;"/></a>
 
 [![LegalDev](https://img.shields.io/github/stars/coriamartinn/LegalDev?label=Legal%20Dev&style=social)](https://github.com/coriamartinn/LegalDev)
 
