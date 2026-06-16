@@ -1,9 +1,8 @@
 <h1 align="center">
-  Hola, Soy Martin Coria
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Martin Coria
 </h1>
 
-<h1>👋 ¡Hola! Soy <strong>Martín Coria</strong></h1>
+<h1><strong>Martín Coria</strong></h1>
 
 <p>💡 Hace más de <strong>3 años</strong> descubrí en la programación mi lugar para <strong>crear, innovar y resolver problemas</strong>. Desde entonces, no he dejado de aprender ni de aplicar mis conocimientos en proyectos reales.</p>
 
