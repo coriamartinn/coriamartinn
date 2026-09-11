@@ -103,10 +103,10 @@ mision:       Convertir cafe en codigo ☕ -> 💻
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=c9d1d9" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=coriamartinn&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coriamartinn&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=c9d1d9" width="48%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU-USUARIO&theme=dark&hide_border=true&background=0D1117&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=coriamartinn&theme=dark&hide_border=true&background=0D1117&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" width="60%"/>
 
 </div>
 
