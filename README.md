@@ -15,7 +15,7 @@
 <!-- Typing SVG estilo terminal -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=%3E+FULL+STACK+DEVELOPER_;%3E+LOADING+PORTFOLIO...;%3E+PRESS+START+TO+CONTINUE)](https://git.io/typing-svg)
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=TU-USUARIO.TU-USUARIO&style=for-the-badge&color=39FF14)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=coriamartinn.coriamartinn&style=for-the-badge&color=39FF14)
 
 </div>
 
@@ -24,7 +24,7 @@
 ## `> SOBRE_MI.exe`
 
 ```yaml
-jugador:      TU NOMBRE
+jugador:      Martin Coria
 clase:        Full Stack Developer
 nivel:        99
 ubicacion:    Argentina
