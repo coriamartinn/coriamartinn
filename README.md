@@ -58,39 +58,13 @@ mision:       Convertir cafe en codigo ☕ -> 💻
 
 <table>
   <tr>
-    <td width="50%">
-      <h3>🕹️ PROYECTO_01</h3>
-      <p>Descripción corta del proyecto acá.</p>
+    <td width="100%" align="center">
+      <h3>🕹️ LEGALDEV</h3>
+      <p>Landing page desarrollada para el rubro legal.</p>
       <p>
-        <img src="https://img.shields.io/badge/STACK-XXXX-39FF14?style=flat-square&labelColor=000000"/>
+        <img src="https://img.shields.io/badge/STACK-HTML-39FF14?style=flat-square&labelColor=000000"/>
       </p>
-      <a href="#">▶ VER REPO</a> · <a href="#">▶ DEMO</a>
-    </td>
-    <td width="50%">
-      <h3>🕹️ PROYECTO_02</h3>
-      <p>Descripción corta del proyecto acá.</p>
-      <p>
-        <img src="https://img.shields.io/badge/STACK-XXXX-39FF14?style=flat-square&labelColor=000000"/>
-      </p>
-      <a href="#">▶ VER REPO</a> · <a href="#">▶ DEMO</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🕹️ PROYECTO_03</h3>
-      <p>Descripción corta del proyecto acá.</p>
-      <p>
-        <img src="https://img.shields.io/badge/STACK-XXXX-39FF14?style=flat-square&labelColor=000000"/>
-      </p>
-      <a href="#">▶ VER REPO</a> · <a href="#">▶ DEMO</a>
-    </td>
-    <td width="50%">
-      <h3>🕹️ PROYECTO_04</h3>
-      <p>Descripción corta del proyecto acá.</p>
-      <p>
-        <img src="https://img.shields.io/badge/STACK-XXXX-39FF14?style=flat-square&labelColor=000000"/>
-      </p>
-      <a href="#">▶ VER REPO</a> · <a href="#">▶ DEMO</a>
+      <a href="https://github.com/coriamartinn/LegalDev">▶ VER REPO</a>
     </td>
   </tr>
 </table>
@@ -116,9 +90,8 @@ mision:       Convertir cafe en codigo ☕ -> 💻
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14)](#)
-[![Gmail](https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=39FF14)](#)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=react&logoColor=39FF14)](#)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14)](https://www.linkedin.com/in/martincoria26/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=react&logoColor=39FF14)](https://coriadev.com)
 
 <br/>
 
