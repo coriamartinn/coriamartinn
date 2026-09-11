@@ -1,98 +1,131 @@
-<h1 align="center">
-  Martin Coria
-</h1>
+<div align="center">
 
-<h1><strong>Martín Coria</strong></h1>
+<!-- Header estilo 8-bit -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=120&section=header" width="100%"/>
 
-<p>💡 Hace más de <strong>3 años</strong> descubrí en la programación mi lugar para <strong>crear, innovar y resolver problemas</strong>. Desde entonces, no he dejado de aprender ni de aplicar mis conocimientos en proyectos reales.</p>
+```
+██████╗ ██╗      █████╗ ██╗   ██╗███████╗██████╗
+██╔══██╗██║     ██╔══██╗╚██╗ ██╔╝██╔════╝██╔══██╗
+██████╔╝██║     ███████║ ╚████╔╝ █████╗  ██████╔╝
+██╔═══╝ ██║     ██╔══██║  ╚██╔╝  ██╔══╝  ██╔══██╗
+██║     ███████╗██║  ██║   ██║   ███████╗██║  ██║
+╚═╝     ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝
+```
 
-<hr>
+<!-- Typing SVG estilo terminal -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=%3E+FULL+STACK+DEVELOPER_;%3E+LOADING+PORTFOLIO...;%3E+PRESS+START+TO+CONTINUE)](https://git.io/typing-svg)
 
-<h2>🚀 Lo que me define</h2>
-<ul>
-  <li>🔍 <strong>Proactivo</strong> y en búsqueda constante de soluciones.</li>
-  <li>⚡ Capaz de adaptarme rápido a nuevos retos tecnológicos.</li>
-  <li>🧠 Apasionado por unir <strong>lógica, diseño y funcionalidad</strong>.</li>
-</ul>
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=TU-USUARIO.TU-USUARIO&style=for-the-badge&color=39FF14)
 
-<hr>
+</div>
 
-<h2>🎯 Objetivo actual</h2>
-<p>📚 Cursando la <strong>Tecnicatura Universitaria en Programación</strong> en la <strong>UTN</strong>, enfocado en especializarme en <strong>desarrollo backend</strong> para crear <strong>aplicaciones web y software</strong> que aporten <strong>valor real</strong>.</p>
+---
 
-<hr>
+## `> SOBRE_MI.exe`
 
-<h2>🧩 Filosofía de trabajo</h2>
-<p>💻 <em>Cada línea de código me acerca a una nueva solución.</em></p>
+```yaml
+jugador:      TU NOMBRE
+clase:        Full Stack Developer
+nivel:        99
+ubicacion:    Argentina
+mision:       Convertir cafe en codigo ☕ -> 💻
+```
 
+- 🟢 Actualmente construyendo cosas piolas con **Next.js**
+- 🟢 Aprendiendo algo nuevo todo el tiempo (siempre hay un boss nuevo)
+- 🟢 Me tiran onda los proyectos con buen diseño y mejor código
+- 🟢 Contactame si querés armar algo juntos
 
-## 🛠 &nbsp;Tech Stack
+---
 
-#### 🔧 Languages
+## `> INVENTARIO / TECH STACK`
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=3178c6)
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+<div align="center">
 
-<!--#### 🖥️ Frameworks
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-000000?style=for-the-badge&logo=typescript&logoColor=39FF14)
+![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=next.js&logoColor=39FF14)
+![Node.js](https://img.shields.io/badge/NODE.JS-000000?style=for-the-badge&logo=node.js&logoColor=39FF14)
+![Angular](https://img.shields.io/badge/ANGULAR-000000?style=for-the-badge&logo=angular&logoColor=39FF14)
+![Python](https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=39FF14)
 
-![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)-->
+</div>
 
+---
 
+## `> PROYECTOS_DESTACADOS.dat`
 
+<div align="center">
 
-#### 📚 Libraries
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🕹️ PROYECTO_01</h3>
+      <p>Descripción corta del proyecto acá.</p>
+      <p>
+        <img src="https://img.shields.io/badge/STACK-XXXX-39FF14?style=flat-square&labelColor=000000"/>
+      </p>
+      <a href="#">▶ VER REPO</a> · <a href="#">▶ DEMO</a>
+    </td>
+    <td width="50%">
+      <h3>🕹️ PROYECTO_02</h3>
+      <p>Descripción corta del proyecto acá.</p>
+      <p>
+        <img src="https://img.shields.io/badge/STACK-XXXX-39FF14?style=flat-square&labelColor=000000"/>
+      </p>
+      <a href="#">▶ VER REPO</a> · <a href="#">▶ DEMO</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🕹️ PROYECTO_03</h3>
+      <p>Descripción corta del proyecto acá.</p>
+      <p>
+        <img src="https://img.shields.io/badge/STACK-XXXX-39FF14?style=flat-square&labelColor=000000"/>
+      </p>
+      <a href="#">▶ VER REPO</a> · <a href="#">▶ DEMO</a>
+    </td>
+    <td width="50%">
+      <h3>🕹️ PROYECTO_04</h3>
+      <p>Descripción corta del proyecto acá.</p>
+      <p>
+        <img src="https://img.shields.io/badge/STACK-XXXX-39FF14?style=flat-square&labelColor=000000"/>
+      </p>
+      <a href="#">▶ VER REPO</a> · <a href="#">▶ DEMO</a>
+    </td>
+  </tr>
+</table>
 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Numpy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Pygame](https://img.shields.io/badge/pygame-%23F7931E.svg?style=for-the-badge&logo=pygame&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23E20000.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
+</div>
 
+---
 
+## `> ESTADISTICAS.log`
 
+<div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=c9d1d9" width="48%"/>
 
-#### 🔧 Tools
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU-USUARIO&theme=dark&hide_border=true&background=0D1117&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" width="60%"/>
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+</div>
 
+---
 
-# Proyectos
+## `> CONTINUAR? [Y/N]`
 
-## Landing Page: LegalDev
+<div align="center">
 
-<a href="https://github.com/coriamartinn/LegalDev"><img src="https://github.com/coriamartinn/LegalDev/blob/master/public/image-preview.png" style="height: 60%; width:60%;"/></a>
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14)](#)
+[![Gmail](https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=39FF14)](#)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=react&logoColor=39FF14)](#)
 
-[![LegalDev](https://img.shields.io/github/stars/coriamartinn/LegalDev?label=Legal%20Dev&style=social)](https://github.com/coriamartinn/LegalDev)
+<br/>
 
-## Portfolio: Martin Coria
+```
+GAME OVER? NO — CONTINUE ▓▓▓▓▓▓▓▓▓▓ 100%
+```
 
-<a href="https://github.com/coriamartinn/Coria.Dev-Portfolio"><img src="https://raw.githubusercontent.com/coriamartinn/Coria.Dev-Portfolio/refs/heads/master/public/porfolio.webp" style="height: 60%; width:60%;"/></a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=80&section=footer" width="100%"/>
 
-[![Portfolio](https://img.shields.io/github/stars/coriamartinn/Coria.Dev-Portfolio?label=Martin%20Coria%20Portfolio&style=social)](https://github.com/coriamartinn/Coria.Dev-Portfolio)
-
-
-
-
-
-
-### 🔗 &nbsp;Contact Me
-
-<div align="left">
-<a href="mailto:coriamartin-dev@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook"></a>
-<a href="https://www.linkedin.com/in/martincoria26/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/coriamartinn/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-</a>
 </div>
