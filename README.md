@@ -65,6 +65,7 @@ mision:       Convertir cafe en codigo ☕ -> 💻
         <img src="https://img.shields.io/badge/STACK-HTML-39FF14?style=flat-square&labelColor=000000"/>
       </p>
       <a href="https://github.com/coriamartinn/LegalDev">▶ VER REPO</a>
+      <a href="https://estudiodresrodriguez.com">▶ VER PAGE</a>
     </td>
   </tr>
 </table>
